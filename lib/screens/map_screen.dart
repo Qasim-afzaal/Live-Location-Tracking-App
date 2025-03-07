@@ -4,7 +4,6 @@ import 'package:flutter_map_location_marker/flutter_map_location_marker.dart';
 import 'package:geolocator/geolocator.dart' as geolocator_package;
 import 'package:latlong2/latlong.dart';
 import 'package:location/location.dart' as location_package;
-import 'package:permission_handler/permission_handler.dart' as permission_package;
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
