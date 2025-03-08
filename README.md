@@ -43,7 +43,7 @@ Before diving in, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/live-location-tracker.git
+git clone https://github.com/Qasim-afzaal/live-location-tracker.git
 cd live-location-tracker
 ```
 
