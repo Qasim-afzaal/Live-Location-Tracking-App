@@ -44,7 +44,6 @@ Before diving in, make sure you have:
 
 ```bash
 git clone https://github.com/Qasim-afzaal/live-location-tracker.git
-cd live-location-tracker
 ```
 
 ### 2. Install Dependencies
